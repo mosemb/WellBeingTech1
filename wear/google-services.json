@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "647847634344",
+    "firebase_url": "https://wellbeingtechnologiesfinal-default-rtdb.firebaseio.com",
+    "project_id": "wellbeingtechnologiesfinal",
+    "storage_bucket": "wellbeingtechnologiesfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647847634344:android:5aad84170ab7ccaa7ca99d",
+        "android_client_info": {
+          "package_name": "com.hfad.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647847634344-17umsa7m4vbft8q307h3prg5o4mu2c18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjVKu5mzsteGLEL03sN5itttGzGwVwhf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647847634344-17umsa7m4vbft8q307h3prg5o4mu2c18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647847634344:android:c5d38898ea9cc8e87ca99d",
+        "android_client_info": {
+          "package_name": "com.hfad.wellbeingtechheartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647847634344-17umsa7m4vbft8q307h3prg5o4mu2c18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjVKu5mzsteGLEL03sN5itttGzGwVwhf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647847634344-17umsa7m4vbft8q307h3prg5o4mu2c18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
